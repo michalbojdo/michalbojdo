@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @michalbojdo;
-- 👀 I’m interested in Web Design, C#;
-- 🌱 I’m currently learning Web Developing (HTML, CSS, JavaScript, PHP);
+ Hi, I’m @michalbojdo;
+ I’m currently learning Web Developing (HTML, CSS, JavaScript, PHP) and C#;
 
 <!---
 michalbojdo/michalbojdo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
